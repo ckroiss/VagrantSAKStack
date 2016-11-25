@@ -1,2 +1,2 @@
 # VagrantSAKStack
-Spark, Akka, Kafka on 
+Spark, Akka, Kafka on Vagrant
